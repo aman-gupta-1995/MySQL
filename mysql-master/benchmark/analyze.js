@@ -5,7 +5,7 @@ var numbers       = [];
 var boringResults = 0;
 var scriptRuns    = 0;
 
-function runScript() {
+function runScript() { 
   scriptRuns++;
 
   var child = spawn(process.execPath, [script]);

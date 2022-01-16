@@ -4,7 +4,7 @@ This file is a manually maintained list of changes for each release. Feel free
 to add your changes here when sending pull requests. Also send corrections if
 you spot any mistakes.
 
-## HEAD
+## HEAD 
    
 * Support Node.js 14.x
 * Update `sqlstring` to 2.3.2

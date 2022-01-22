@@ -3,7 +3,7 @@
 [![NPM Version][npm-version-image]][npm-url] 
 [![NPM Downloads][npm-downloads-image]][npm-url]
 [![Node.js Version][node-image]][node-url] 
-[![Linux Build][travis-image]][travis-url]
+[![Linux Build][travis-image]][travis-url] 
 [![Windows Build][appveyor-image]][appveyor-url]
 [![Test Coverage][coveralls-image]][coveralls-url]
 

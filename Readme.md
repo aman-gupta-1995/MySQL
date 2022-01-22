@@ -1,6 +1,6 @@
 # mysql
 
-[![NPM Version][npm-version-image]][npm-url] 
+[![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-url]
 [![Node.js Version][node-image]][node-url] 
 [![Linux Build][travis-image]][travis-url] 

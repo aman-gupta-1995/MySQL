@@ -7,7 +7,7 @@ var Parser       = require(lib + '/protocol/Parser');
 
 var options = {
   rows       : 100000,
-  bufferSize : 64 * 1024
+  bufferSize : 64 * 1024 
 };  
 
 var buffers = createBuffers();

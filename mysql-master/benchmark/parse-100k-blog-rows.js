@@ -5,7 +5,7 @@ var Packets      = require(lib + '/protocol/packets');
 var PacketWriter = require(lib + '/protocol/PacketWriter');
 var Parser       = require(lib + '/protocol/Parser');
 
-var options = {
+var options = { 
   rows       : 100000,
   bufferSize : 64 * 1024 
 };  

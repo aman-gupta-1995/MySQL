@@ -9,7 +9,7 @@
     "Bradley Grainger <bgrainger@gmail.com>",
     "Douglas Christopher Wilson <doug@somethingdoug.com>", 
     "Diogo Resende <dresende@thinkdigital.pt>", 
-    "Nathan Woltman <nwoltman@outlook.com>"
+    "Nathan Woltman <nwoltman@outlook.com>" 
   ], 
   "repository": "mysqljs/mysql",
   "dependencies": {

@@ -11,7 +11,7 @@ var options = {
 }; 
 
 var buffers = createBuffers();
-
+ 
 console.error('Config:', options);
 run();
 

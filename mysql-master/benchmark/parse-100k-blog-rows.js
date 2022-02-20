@@ -6,7 +6,7 @@ var PacketWriter = require(lib + '/protocol/PacketWriter');
 var Parser       = require(lib + '/protocol/Parser');
 
 var options = { 
-  rows       : 100000,
+  rows       : 100000, 
   bufferSize : 64 * 1024 
 };  
 

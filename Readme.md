@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-- [Install](#install)
+- [Install](#install) 
 - [Introduction](#introduction)
 - [Contributors](#contributors)
 - [Sponsors](#sponsors)

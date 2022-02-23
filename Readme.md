@@ -7,7 +7,7 @@
 [![Windows Build][appveyor-image]][appveyor-url]
 [![Test Coverage][coveralls-image]][coveralls-url]
 
-## Table of Contents
+## Table of Contents 
 
 - [Install](#install) 
 - [Introduction](#introduction)

@@ -30,7 +30,7 @@
 - [PoolCluster](#poolcluster)
   - [PoolCluster options](#poolcluster-options)
 - [Switching users and altering connection state](#switching-users-and-altering-connection-state)
-- [Server disconnects](#server-disconnects)
+- [Server disconnects](#server-disconnects) 
 - [Performing queries](#performing-queries)
 - [Escaping query values](#escaping-query-values)
 - [Escaping query identifiers](#escaping-query-identifiers)

@@ -31,7 +31,7 @@ exports.createPool = function createPool(config) {
  * @param {object} [config] Configuration for pool cluster 
  * @return {PoolCluster} New MySQL pool cluster
  * @public
- */
+ */ 
 exports.createPoolCluster = function createPoolCluster(config) {
   var PoolCluster = loadClass('PoolCluster');
 

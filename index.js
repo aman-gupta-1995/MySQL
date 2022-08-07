@@ -5,7 +5,7 @@ var Classes = Object.create(null);
  * @param {object|string} config Configuration or connection string for new MySQL connection   
  * @return {Connection} A new MySQL connection 
  * @public 
- */ 
+ */  
 exports.createConnection = function createConnection(config) { 
   var Connection       = loadClass('Connection');  
   var ConnectionConfig = loadClass('ConnectionConfig');

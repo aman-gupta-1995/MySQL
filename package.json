@@ -29,7 +29,7 @@
   "files": [ 
     "lib/",
     "Changes.md",
-    "License",
+    "License", 
     "Readme.md",
     "index.js"
   ],

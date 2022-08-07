@@ -37,7 +37,7 @@ exports.createPoolCluster = function createPoolCluster(config) {
 
   return new PoolCluster(config);
 };
-
+ 
 /**
  * Create a new Query instance.
  * @param {string} sql The SQL for the query

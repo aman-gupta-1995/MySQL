@@ -5,7 +5,7 @@ var SSLProfiles     = null;
 
 module.exports = ConnectionConfig;
 function ConnectionConfig(options) {
-  if (typeof options === 'string') { 
+  if (typeof options === 'string') {  
     options = ConnectionConfig.parseUrl(options);    
   }   
   

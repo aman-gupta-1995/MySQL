@@ -6,7 +6,7 @@ module.exports = PoolConnection;
 inherits(PoolConnection, Connection);
 
 function PoolConnection(pool, options) {  
-  Connection.call(this, options);
+  Connection.call(this, options); 
   this._pool  = pool;
 
   // Bind connection to pool domain

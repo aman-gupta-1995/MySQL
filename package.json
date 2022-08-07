@@ -11,7 +11,7 @@
     "Diogo Resende <dresende@thinkdigital.pt>",  
     "Nathan Woltman <nwoltman@outlook.com>"    
   ],    
-  "repository": "mysqljs/mysql",
+  "repository": "mysqljs/mysql", 
   "dependencies": { 
     "bignumber.js": "9.0.0",
     "readable-stream": "2.3.7",

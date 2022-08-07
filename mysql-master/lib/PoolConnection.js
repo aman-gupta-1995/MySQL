@@ -3,7 +3,7 @@ var Connection = require('./Connection');
 var Events     = require('events');
 
 module.exports = PoolConnection;
-inherits(PoolConnection, Connection);
+inherits(PoolConnection, Connection); 
  
 function PoolConnection(pool, options) {   
   Connection.call(this, options); 

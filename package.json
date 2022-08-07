@@ -12,7 +12,7 @@
     "Nathan Woltman <nwoltman@outlook.com>"    
   ],     
   "repository": "mysqljs/mysql",   
-  "dependencies": {  
+  "dependencies": {   
     "bignumber.js": "9.0.0",
     "readable-stream": "2.3.7",
     "safe-buffer": "5.1.2",

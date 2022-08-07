@@ -28,7 +28,7 @@ exports.createPool = function createPool(config) {
 
 /**
  * Create a new PoolCluster instance.
- * @param {object} [config] Configuration for pool cluster
+ * @param {object} [config] Configuration for pool cluster 
  * @return {PoolCluster} New MySQL pool cluster
  * @public
  */

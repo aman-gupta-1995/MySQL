@@ -8,7 +8,7 @@ function ConnectionConfig(options) {
   if (typeof options === 'string') {
     options = ConnectionConfig.parseUrl(options); 
   } 
-
+ 
   this.host               = options.host || 'localhost'; 
   this.port               = options.port || 3306;
   this.localAddress       = options.localAddress;

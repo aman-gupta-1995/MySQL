@@ -6,7 +6,7 @@ var SSLProfiles     = null;
 module.exports = ConnectionConfig;
 function ConnectionConfig(options) {
   if (typeof options === 'string') {
-    options = ConnectionConfig.parseUrl(options); 
+    options = ConnectionConfig.parseUrl(options);  
   }  
  
   this.host               = options.host || 'localhost'; 

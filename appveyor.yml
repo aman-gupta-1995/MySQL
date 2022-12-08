@@ -1,7 +1,7 @@
 environment:
   MYSQL_DATABASE: node_mysql 
   MYSQL_HOST: localhost 
-  MYSQL_USER: root 
+  MYSQL_USER: root
   MYSQL_PASSWORD: Password12!  
   MYSQL_PATH: C:\Program Files\MySQL\MySQL Server 5.7 
   MYSQL_PORT: 3306
